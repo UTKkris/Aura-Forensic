@@ -1,6 +1,6 @@
 # Aura-Forensic: Real-Time Media Integrity & Source Attribution
 
-**Hackathon Submission 2026**
+**Build with AI Hackathon Submission 2026**
 
 ## Overview
 Aura-Forensic is a real-time media integrity platform designed to establish an unbreakable **Chain of Custody** for digital media in the era of advanced generative AI and deepfakes. By combining multimodal media forensics, steganographic watermarking, and network behavioral analysis, Aura-Forensic ensures that digital evidence remains tamper-evident from the point of capture to the courtroom.
